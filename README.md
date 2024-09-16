@@ -1,7 +1,7 @@
 # Led-control-using-Arduino
 
-### NAME : Harish Ragav S
-### REG NO : 212222110013
+#### NAME : Harish Ragav S
+#### REG NO : 212222110013
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
